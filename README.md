@@ -18,3 +18,6 @@ Ready to run in production? Please [check our deployment guides](http://www.phoe
   * Docs: https://hexdocs.pm/phoenix
   * Mailing list: http://groups.google.com/group/phoenix-talk
   * Source: https://github.com/phoenixframework/phoenix
+# rumbl
+A project for learning Phoenix Framework. The project follows then book "Programming Phoenix" by Chris McCord..
+>>>>>>> dc73196b7b3d0c4b85d7266acea29e168104c0e0
